@@ -1,7 +1,6 @@
 # th0rnRecon
 
 **th0rnRecon** is a comprehensive Python-based web reconnaissance tool designed for CTF (Capture The Flag) web challenges. It automates the initial information-gathering phase by running multiple checks against a target URL and consolidating the results.
-
 ---
 
 ## Features
